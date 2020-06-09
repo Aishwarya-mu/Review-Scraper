@@ -21,4 +21,4 @@ In the world of data, web scraping or web crawling is useful for Sentiment analy
 
 How?
 
-In this project, we're using libraries like Beautiful Soup and Requests to parse in the HTML pages and extract the specific data.
+In this project, we're scraping the reviews of the customers from the FLIPKART WEBSITE using libraries like Beautiful Soup and Requests to parse in the HTML pages and extract the specific data.
